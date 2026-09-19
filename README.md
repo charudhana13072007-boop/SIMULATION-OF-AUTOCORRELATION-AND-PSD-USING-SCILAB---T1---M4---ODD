@@ -56,7 +56,8 @@ Visualize the autocorrelation function and PSD.
 - Verify the generated waveform using Tabulation and Model Waveform.
 
 ## Output
-<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/50cafc8b-d6bc-45d5-ad44-60e015f53600" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e5c5c5bd-3f17-4952-acc3-137a6fd6ac8e" />
+
 
 
 ## Result
